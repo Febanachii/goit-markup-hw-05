@@ -1003,7 +1003,7 @@ font-weight: 800;
     border: 1px solid #4D5AE5;
     height: 40px;
     width: 360px;
-    padding: 38px;
+    padding-left: 38px;
     gap: 8px;
     margin-bottom: 8px;
     flex: none;
