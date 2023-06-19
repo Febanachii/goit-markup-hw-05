@@ -1000,7 +1000,7 @@ font-weight: 800;
    display: flex;
     box-sizing: border-box;
     border-radius: 4px;
-    border: 1px solid #4D5AE5;
+    
     height: 40px;
     width: 360px;
     padding-left: 38px;
@@ -1160,5 +1160,7 @@ font-weight: 800;
     padding-left: 80px;
 }
 
-
+.modal-comment{
+    margin-bottom: 16px;
+}
 
