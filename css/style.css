@@ -1033,6 +1033,9 @@ font-weight: 800;
     fill: #4D5AE5;;
 }
 
+.modal-icons-input:focus{
+    fill: #4D5AE5;
+}
 
 .modal-input-comment:focus{
     border-color: #4D5AE5;
