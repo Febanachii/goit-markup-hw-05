@@ -964,6 +964,9 @@ font-weight: 800;
     
 }
 
+.modal-input:focus+.modal-icons-input {
+    fill: #4D5AE5;
+}
 
 
 .modal-icons-input:focus{
