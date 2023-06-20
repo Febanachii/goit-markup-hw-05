@@ -946,7 +946,7 @@ font-weight: 800;
 
 
 
-.modal-input:focus{
+.modal-input:focus.icon{
     border-color: #4D5AE5;
 }
 
@@ -957,12 +957,15 @@ font-weight: 800;
     top: 50%;
     transform: translateY(-50%);
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    
 }
+
 
 
 .modal-icons-input:focus{
-    fill: #4D5AE5;
+    fill:#4D5AE5;
 }
+
 
 
 .paragraph-modal{
