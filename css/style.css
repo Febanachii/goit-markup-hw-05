@@ -1180,3 +1180,6 @@ font-weight: 800;
     margin-bottom: 16px;
 }
 
+.modal-input:focus .icon {
+    fill: #4D5AE5;
+}
