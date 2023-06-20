@@ -1051,7 +1051,7 @@ font-weight: 800;
     line-height: 1.17;
     letter-spacing: 0.04em;
     color:var(--customers-color);
-    border: 1px solid rgba(46, 47, 66, 0.4);
+    
 
 }
 .span-input-check-box{
@@ -1067,9 +1067,14 @@ font-weight: 800;
     background-color: var(--color-header);
     border: none;
     
-    
+
+}
 
 
+.input-check-box:checked+.label-check-box>.span-input-check-box {
+    background-color: var(--color-header);
+    border: none;
+    fill: var(--secondary-color);
 }
 
 
